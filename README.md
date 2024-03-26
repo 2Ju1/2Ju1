@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @2Ju1
 - 👀 I’m interested in AI, Computer Science
 - 🌱 I’m currently learning DeepLearning!
+- 💚 23-1: R, C
+- 💚 23-2: Java, ML
+- 💚 24-1: Python, SQL 
 
 
 <!---
